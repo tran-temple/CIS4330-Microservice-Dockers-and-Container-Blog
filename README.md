@@ -35,6 +35,6 @@ https://phoenixnap.com/kb/docker-image-vs-container
 
 ## My Thoughts:
 
-It is different from the macOS that I am running on my physical machine.
-It is also not a VM as it has differences from VM's such as: Docker is much more lightweight as it does not require the amount resources for each container like a VM would need.
-Since the containers are lightweight, it is possible to run multiple containers at the exact same time.
+-It is different from the macOS that I am running on my physical machine.
+-It is also not a VM as it has differences from VM's such as: Docker is much more lightweight as it does not require the amount resources for each container like a VM would need.
+-Since the containers are lightweight, it is possible to run multiple containers at the exact same time.
