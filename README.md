@@ -6,7 +6,7 @@ This is the group work for assignment "Start - Install Dockers and run a contain
 
 ![images](https://user-images.githubusercontent.com/60079666/109850493-92e1c780-7c20-11eb-9af7-044390708509.JPG)
 
-![docker tutorial container image](https://user-images.githubusercontent.com/60079666/109850484-91180400-7c20-11eb-8851-1f0e6a398e16.JPG)
+![docker tutorial container image](https://user-images.githubusercontent.com/60079666/110020399-7f556000-7cf7-11eb-9f43-55d51d74ffd6.JPG)
 
 
 ## Thoughts
